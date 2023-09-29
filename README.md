@@ -15,14 +15,3 @@ py app.py
 
 then visit http://localhost:5000/ in your browser:
 
-# Image Detected
-
-![0](https://user-images.githubusercontent.com/100455964/211729122-ea5458ae-e270-49f1-84d6-29f33b5007bc.png)
-
-![1](https://user-images.githubusercontent.com/100455964/211729125-0eb5be43-f4a9-4eab-836a-2a436552cce6.png)
-
-![2](https://user-images.githubusercontent.com/100455964/211729109-101ed5a6-853c-4aa0-86bc-c133e21afd29.png)
-
-![3](https://user-images.githubusercontent.com/100455964/211729116-a253e7fa-67e0-4aa1-8f20-1ebd87caee51.png)
-
-![4](https://user-images.githubusercontent.com/100455964/211729120-cd33f76a-968f-421f-8776-bb73ffe4717e.png)
